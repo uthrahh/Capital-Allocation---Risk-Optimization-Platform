@@ -1,0 +1,8 @@
+Credit AUC: 0.7318039156703812
+Vacancy C-index: 0.6876147486031942
+Optimized return: 1364512.5072461052
+Capital used: 4999940.0
+Selected loans: 232
+Selected properties: 22
+Solver Status: ok
+Termination Condition: optimal
